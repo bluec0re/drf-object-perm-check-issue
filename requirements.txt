@@ -1,4 +1,4 @@
-Django==1.9.5
+Django==1.11.29
 django-guardian==1.4.4
 -e git+https://github.com/tomchristie/django-rest-framework@888e5c78bd0fafd261ad86441a52887a803ec165#egg=djangorestframework
 six==1.10.0
